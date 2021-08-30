@@ -1,0 +1,12 @@
+./
+./usr
+./usr/include
+./usr/include/qca-iot
+./usr/include/qca-iot/diag_api.h
+./usr/include/qca-iot/qsPack.h
+./usr/include/qca-iot/qsHost.h
+./usr/include/qca-iot/qsOSAL.h
+./usr/include/qca-iot/qsCommon.h
+./usr/lib
+./usr/lib/libdiag_demo.so
+./host

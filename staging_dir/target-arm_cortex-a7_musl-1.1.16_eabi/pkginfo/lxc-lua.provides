@@ -1,0 +1,11 @@
+libc.so
+libcap.so
+libcap.so.2
+libcap.so.2.24
+libgcc_s.so.1
+liblua.so.5.1.5
+liblxc.so
+liblxc.so.1
+liblxc.so.1.1.3
+libssp.so.0
+libssp.so.0.0.0

@@ -1,0 +1,6 @@
+ip6_tunnel.ko
+qca-nss-dp.ko
+qca-nss-drv.ko
+qca-nss-tunipip6.ko
+qca-ssdk.ko
+tunnel6.ko

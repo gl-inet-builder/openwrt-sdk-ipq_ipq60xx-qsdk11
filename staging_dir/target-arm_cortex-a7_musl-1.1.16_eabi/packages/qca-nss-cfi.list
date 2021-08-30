@@ -1,0 +1,7 @@
+./
+./usr
+./usr/include
+./usr/include/qca-nss-cfi
+./usr/include/qca-nss-cfi/nss_cfi_if.h
+./usr/include/qca-nss-cfi/nss_cryptoapi.h
+./host

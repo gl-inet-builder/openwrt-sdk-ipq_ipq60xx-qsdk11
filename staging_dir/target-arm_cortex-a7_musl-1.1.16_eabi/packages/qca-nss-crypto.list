@@ -1,0 +1,8 @@
+./
+./usr
+./usr/include
+./usr/include/qca-nss-crypto
+./usr/include/qca-nss-crypto/nss_crypto_hdr.h
+./usr/include/qca-nss-crypto/nss_crypto_api.h
+./usr/include/qca-nss-crypto/nss_crypto_defines.h
+./host

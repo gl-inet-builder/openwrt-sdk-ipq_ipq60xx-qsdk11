@@ -1,0 +1,12 @@
+bindir=/usr/bin
+libdir=/usr/lib
+localstatedir=/var
+includedir=/usr/include
+rootfsmountdir=/usr/lib/lxc/rootfs
+
+Name: lxc
+Description: linux container tools
+Version: 1.1.3
+URL: http://linuxcontainers.org
+Libs: -L${libdir} -llxc -lutil
+Cflags: -I${includedir}

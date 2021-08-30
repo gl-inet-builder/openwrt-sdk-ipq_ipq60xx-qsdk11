@@ -1,0 +1,12 @@
+libc.so
+libgcc_s.so.1
+libopencore-amrnb.so
+libopencore-amrnb.so.0
+libopencore-amrnb.so.0.0.3
+libopencore-amrwb.so
+libopencore-amrwb.so.0
+libopencore-amrwb.so.0.0.3
+libssp.so.0
+libssp.so.0.0.0
+libuClibc++-0.2.4.so
+libuClibc++.so.0

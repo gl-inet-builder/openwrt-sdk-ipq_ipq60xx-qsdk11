@@ -1,0 +1,11 @@
+./
+./usr
+./usr/include
+./usr/include/sys
+./usr/include/sys/capability.h
+./usr/lib
+./usr/lib/libcap.a
+./usr/lib/libcap.so
+./usr/lib/libcap.so.2
+./usr/lib/libcap.so.2.24
+./host

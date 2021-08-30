@@ -1,0 +1,11 @@
+./
+./usr
+./usr/include
+./usr/include/pci
+./usr/include/pci/types.h
+./usr/include/pci/pci.h
+./usr/include/pci/header.h
+./usr/include/pci/config.h
+./usr/lib
+./usr/lib/libpci.a
+./host

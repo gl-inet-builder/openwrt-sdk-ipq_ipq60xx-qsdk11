@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libkmod
+Description: Library to deal with kernel modules
+Version: 20
+Libs: -L${libdir} -lkmod
+Libs.private:  -L/data/han/q11/qsdk/staging_dir/target-arm_cortex-a7_musl-1.1.16_eabi/usr/lib -lz
+Cflags: -I${includedir}

@@ -1,0 +1,6 @@
+./
+./usr
+./usr/include
+./usr/include/qca-nss-dp
+./usr/include/qca-nss-dp/nss_dp_api_if.h
+./host

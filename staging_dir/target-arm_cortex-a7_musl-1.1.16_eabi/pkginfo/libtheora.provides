@@ -1,0 +1,15 @@
+libc.so
+libgcc_s.so.1
+libogg.so.0
+libogg.so.0.8.2
+libssp.so.0
+libssp.so.0.0.0
+libtheora.so
+libtheora.so.0
+libtheora.so.0.3.10
+libtheoradec.so
+libtheoradec.so.1
+libtheoradec.so.1.1.4
+libtheoraenc.so
+libtheoraenc.so.1
+libtheoraenc.so.1.1.2

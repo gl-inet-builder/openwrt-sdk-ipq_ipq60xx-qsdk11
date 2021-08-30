@@ -1,0 +1,13 @@
+input-core.ko
+libasound.so.2
+libasound.so.2.0.0
+libc.so
+libgcc_s.so.1
+libssp.so.0
+libssp.so.0.0.0
+snd-compress.ko
+snd-hwdep.ko
+snd-mixer-oss.ko
+snd-pcm-oss.ko
+snd-rawmidi.ko
+snd-seq-device.ko

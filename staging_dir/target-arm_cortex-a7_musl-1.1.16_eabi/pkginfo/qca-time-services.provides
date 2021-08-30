@@ -1,0 +1,7 @@
+libc.so
+libgcc_s.so.1
+libqmi_cci.so
+libqmi_common_so.so
+libqmi_qrtr_cci.so
+libssp.so.0
+libssp.so.0.0.0

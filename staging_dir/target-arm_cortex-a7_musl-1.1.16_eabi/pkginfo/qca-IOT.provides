@@ -1,0 +1,6 @@
+libc.so
+libdiag_demo.so
+libgcc_s.so.1
+libssp.so.0
+libssp.so.0.0.0
+tun.ko
