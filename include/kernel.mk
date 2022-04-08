@@ -37,7 +37,7 @@ else
   LINUX_DIR ?= $(KERNEL_BUILD_DIR)/linux-$(LINUX_VERSION)
   LINUX_UAPI_DIR=uapi/
   LINUX_VERMAGIC:=$(strip $(shell cat $(LINUX_DIR)/.vermagic 2>/dev/null))
-  LINUX_VERMAGIC:=$(if $(LINUX_VERMAGIC),$(LINUX_VERMAGIC),c58ece04a5a90e53dbd79b190e28b1d6)
+  LINUX_VERMAGIC:=$(if $(LINUX_VERMAGIC),$(LINUX_VERMAGIC),0409a3deb90ef545b3b328958b8500d1)
 
   LINUX_UNAME_VERSION:=$(if $(word 3,$(subst ., ,$(KERNEL_BASE))),$(KERNEL_BASE),$(KERNEL_BASE).0)
   ifneq ($(findstring -rc,$(LINUX_VERSION)),)
